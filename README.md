@@ -9,7 +9,7 @@
 <p align='center'>
   <a href="https://t.me/tyda_chan">
   <img src="https://img.shields.io/badge/telegram-%23279FDB.svg?&style=for-the-badge&logo=telegram&logoColor=white" style="height: 28px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/rith chanthyda">
+  <a href="www.linkedin.com/in/rith-chanthyda-705bb72aa">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/your_instagram_handle">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
