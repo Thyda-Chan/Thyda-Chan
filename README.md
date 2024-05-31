@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Thyda</h1>
-<h3 align="center">A passionate 4th year datascience student from Institute of Technology of Cambodia</h3>
+![Cover](https://github.com/Thyda-Chan/Thyda-Chan/blob/main/Rith%20Chanthyda%20(1).png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyda-chan&label=Profile%20views&color=0e75b6&style=flat" alt="tyda-chan" /> </p>
 
-- 🔭 I’m currently working on **Economic Tracking using Power BI**
+<p align='center'>
+  I live in Phnom Penh, Cambodia
+</p>
 
-- 🌱 I’m currently learning **Database, Probability Graphical Model, Big Data**
+<p align='center'>
+  <a href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rith chanthyda"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 📫 How to reach me **rithchanthyda570@gmail.com**
-
-- ⚡ Fun fact **I think am an amivert😁**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
