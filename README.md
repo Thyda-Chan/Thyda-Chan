@@ -81,20 +81,20 @@
 ![](https://img.shields.io/badge/Tool-Excel-informational?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=217346)
 ![](https://img.shields.io/badge/Tool-Latex-informational?style=for-the-badge&logo=latex&logoColor=white&color=008080)
 
+<details>
 <summary>More Skills</summary>
 
 ## 📈 Statistics
 
-![](https://img.shields.io/badge/Numerical%20Analysis-FF5733?style=for-the-badge)
-![](https://img.shields.io/badge/Advanced%20Probability-800080?style=for-the-badge)
-![](https://img.shields.io/badge/Probability%20Graphical%20Model-4B0082?style=for-the-badge)
+![](https://img.shields.io/badge/Numerical%20Analysis-FF5733?style=for-the-badge&logoColor=white&labelColor=ff5733&color=ff5733)
+![](https://img.shields.io/badge/Advanced%20Probability-800080?style=for-the-badge&logoColor=white&labelColor=800080&color=800080)
+![](https://img.shields.io/badge/Probability%20Graphical%20Model-4B0082?style=for-the-badge&logoColor=white&labelColor=4b0082&color=4b0082)
 
 ## 💡 Domain Knowledge
 
-![](https://img.shields.io/badge/Domain%20Research%20Methodology-FF5733?style=for-the-badge&logo=science)
-![](https://img.shields.io/badge/Domain%20Economic-800080?style=for-the-badge&logo=dollar-sign)
-![](https://img.shields.io/badge/Domain%20Business-4B0082?style=for-the-badge&logo=briefcase)
-
+![](https://img.shields.io/badge/Domain%20Research%20Methodology-FF5733?style=for-the-badge&logoColor=white&labelColor=00cc99&color=00cc99&logo=science)
+![](https://img.shields.io/badge/Domain%20Economic-800080?style=for-the-badge&logoColor=white&labelColor=ff6699&color=ff6699&logo=dollar-sign)
+![](https://img.shields.io/badge/Domain%20Business-4B0082?style=for-the-badge&logoColor=white&labelColor=ffcc00&color=ffcc00&logo=briefcase)
 
 
 
