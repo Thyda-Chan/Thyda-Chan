@@ -48,14 +48,58 @@
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Thyda-Chan">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyda-Chan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Thyda-Chan">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Thyda-Chan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Thyda-Chan's GitHub Stats" />
 </a>
 
 <br>
+
+## 💻 Coding
+
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=6C5CE7)
+![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=R&logoColor=white&color=F37055)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=2ECC71)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&logoColor=white&color=3498DB)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=F39C12)
+![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=E74C3C)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=47A248)
+
+
+## 🛠️ Tools
+  
+![](https://img.shields.io/badge/Tool-Power%20BI-informational?style=for-the-badge&logo=power-bi&logoColor=white&color=F2C811)
+![](https://img.shields.io/badge/Tool-Scikit--Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/Tool-Seaborn-informational?style=for-the-badge&logo=seaborn&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/Tool-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Tool-Fast--API-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
+![](https://img.shields.io/badge/Tool-Excel-informational?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=217346)
+![](https://img.shields.io/badge/Tool-Latex-informational?style=for-the-badge&logo=latex&logoColor=white&color=008080)
+
+<summary>More Skills</summary>
+
+## 📈 Statistics
+
+![](https://img.shields.io/badge/Numerical%20Analysis-FF5733?style=for-the-badge)
+![](https://img.shields.io/badge/Advanced%20Probability-800080?style=for-the-badge)
+![](https://img.shields.io/badge/Probability%20Graphical%20Model-4B0082?style=for-the-badge)
+
+## 💡 Domain Knowledge
+
+![](https://img.shields.io/badge/Domain%20Research%20Methodology-FF5733?style=for-the-badge&logo=science)
+![](https://img.shields.io/badge/Domain%20Economic-800080?style=for-the-badge&logo=dollar-sign)
+![](https://img.shields.io/badge/Domain%20Business-4B0082?style=for-the-badge&logo=briefcase)
+
+
+
+
 <br>
+
+
+
 
